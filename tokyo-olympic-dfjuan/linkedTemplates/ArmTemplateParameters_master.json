@@ -1,0 +1,36 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "tokyo-olympic-dfjuan"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AthletesHttp_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/Juanita-BA/tokyo-olympics/refs/heads/main/Athletes.csv"
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://tokyoolympicdatajuan.dfs.core.windows.net/"
+		},
+		"CoachesHttp_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/Juanita-BA/tokyo-olympics/refs/heads/main/Coaches.csv"
+		},
+		"EntriesGenderHttp_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/Juanita-BA/tokyo-olympics/refs/heads/main/EntriesGender.csv"
+		},
+		"MedalsHttp_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/Juanita-BA/tokyo-olympics/refs/heads/main/Medals.csv"
+		},
+		"TeamsHttp_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/Juanita-BA/tokyo-olympics/refs/heads/main/Teams.csv"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
