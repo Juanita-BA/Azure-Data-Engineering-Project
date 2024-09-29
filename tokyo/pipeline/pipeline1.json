@@ -188,7 +188,7 @@
 				]
 			},
 			{
-				"name": "Copy data1",
+				"name": "Medals",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
