@@ -1,0 +1,12 @@
+{
+	"name": "TeamsHttp",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/Juanita-BA/tokyo-olympics/refs/heads/main/Teams.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
