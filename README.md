@@ -35,5 +35,7 @@ The architecture is based on two key layers:
 4. **Visualize Data**: Create and share reports using Tableau.
 
 ## Dataset attached
+## Tableau Analysis
+![Tableau](https://github.com/Juanita-BA/Azure-Data-Engineering-Project/blob/main/tabelau%20image%20olympic.png)
 
 For more details, refer to the document uploaded in this repository.
