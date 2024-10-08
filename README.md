@@ -3,6 +3,8 @@
 ## Project Overview
 This project demonstrates a comprehensive data engineering solution built on Microsoft Azure. The solution is designed to transform raw data into actionable insights by utilizing Azure services like Data Factory, Databricks, Synapse Analytics, and Tableau for visualization. The architecture is structured into layers to streamline the data management process.
 
+![Architecture Diagram](./azure_image.png)
+
 ## Architecture
 The architecture is based on two key layers:
 1. **Raw Data Layer**: Ingests unprocessed data.
